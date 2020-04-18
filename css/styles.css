@@ -1,5 +1,6 @@
 body {
-  background: #fff url("../images/Background.jpg");
-  font-family: sans-serif; }
-  body img {
-    width: 100%; }
+  font-family: sans-serif;
+  background: #fff URL("../images/Background.jpg"); }
+
+body img {
+  width: 100%; }
