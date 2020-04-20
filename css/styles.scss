@@ -4,12 +4,55 @@ body {
 		color: white;
 		font-family: gill sans;
 		font-size: 220%;
+		margin-left: 600px;
+		padding-top: 15px;
+		padding-bottom: 10px;
 	}
-	img.displayed {
-			display: block;
-			margin-left: auto;
-			margin-right: auto;
+	p	{
+		color: white;
+		font-family: gill sans;
+		line-height: 50%;
+		margin-left: 600px;
+		padding-bottom: 1px;
 	}
+	li {
+		list-style-type:square;
+		color: white;
+		font-family: gill sans;
+		margin-left: 600px;
 	}
+	img{
+		list-style:none;
+		border-radius: 10px;
+		display:block;
+		margin-left: 600px;
+		margin-right: auto;
+		width: 80%;
+		padding-bottom: 150px;
 
+	}
+	.container {
+			width: 50%;
+			height: auto;
 }
+	iframe{
+		border-width: thick;
+		border-color: balck;
+		border-style: none;
+		margin-left: auto;
+		margin-right: auto;
+		display: flex;
+		width: 800px;
+		height: 600px;
+		padding-top: 100px;
+		padding-bottom: 200PX;
+	}
+	footer {
+		color: white;
+		font-family: gill sans;
+		font-size: 120%;
+	}
+	a {
+		color: hotpink;
+	}
+ }
