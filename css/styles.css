@@ -33,6 +33,11 @@ body {
     height: 600px;
     padding-top: 100px;
     padding-bottom: 200PX; }
+  body p {
+    color: white;
+    font-family: gill sans;
+    font-size: 110%;
+    padding-left: 600px; }
   body footer {
     color: white;
     font-family: gill sans;
