@@ -29,15 +29,16 @@ body {
     margin-left: auto;
     margin-right: auto;
     display: flex;
-    width: 800px;
-    height: 600px;
-    padding-top: 100px;
-    padding-bottom: 200PX; }
+    width: 600px;
+    height: 400px;
+    padding-top: 10px;
+    padding-bottom: 40PX; }
   body p {
     color: white;
     font-family: gill sans;
     font-size: 110%;
-    padding-left: 600px; }
+    padding-left: 600px;
+    line-height: 50%; }
   body footer {
     color: white;
     font-family: gill sans;
