@@ -1,18 +1,11 @@
 body {
   background-image: url("../images/background.jpg"); }
   body h2 {
-    color: white;
+    color: black;
     font-family: gill sans;
     font-size: 220%;
     margin-left: 600px;
-    padding-top: 15px;
-    padding-bottom: 10px; }
-  body p {
-    color: white;
-    font-family: gill sans;
-    line-height: 50%;
-    margin-left: 600px;
-    padding-bottom: 1px; }
+    padding-top: 15px; }
   body li {
     list-style-type: square;
     color: white;
