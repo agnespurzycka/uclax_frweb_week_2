@@ -5,12 +5,11 @@ body {
 		font-family: gill sans;
 		font-size: 220%;
 	}
-	iframe{
-		border: none;
-		margin-left: auto;
-		margin-right: auto;
-		margin-top: 30px;
-		max-width: 100vw;
-		max-height: 56.25vw;
+	img.displayed {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
 	}
+	}
+
 }
